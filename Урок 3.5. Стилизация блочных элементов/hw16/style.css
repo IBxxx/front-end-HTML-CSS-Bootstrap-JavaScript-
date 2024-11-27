@@ -1,0 +1,38 @@
+body {
+    display: block;
+    /* background-image: url(../image/pngtree.jpg); */
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(47, 47, 109);
+
+}
+.products {
+    /* margin: 0 auto;
+    padding: 0; */
+}
+.product_item {
+    background-color: rgba(16, 145, 123, 0.281);
+    color: antiquewhite;
+    padding: 10px 15px;
+    margin: 50px 150px;
+
+    border-radius: 50px 50px;
+    outline: 1px solid #fff2;
+    box-shadow: black 0 0 20px 10px;
+}
+.product_item_title {
+    width: 50%;
+    height: auto;
+    box-sizing: border-box;
+    
+    margin: 10px auto;
+
+    padding: 10px 15px;
+
+
+
+}
+.product_item_description{
+
+}
